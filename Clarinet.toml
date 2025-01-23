@@ -15,8 +15,8 @@ path = 'contracts/quantum-art-nft.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.viewer-interactions]
-path = 'contracts/viewer-interactions.clar'
+[contracts.quantum-rng]
+path = 'contracts/quantum-rng.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]

@@ -13,3 +13,7 @@ R
 "contracts/viewer-interactions.clar,2/0/2092b45257f2d80b67c071940a5fd9187a233ef3
 Q
 !tests/viewer-interactions.test.ts,4/2/42f7e525f77839aacd86e9a88481e0cb5870f307
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+J
+contracts/quantum-rng.clar,7/1/710699849a2ac542813668e4b42d0573cf83b7bf
