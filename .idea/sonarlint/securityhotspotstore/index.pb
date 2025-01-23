@@ -5,3 +5,5 @@ Q
 !contracts/artwork-management.clar,9/3/93b83a8245786b7956eee35a1de86b9df4db2334
 P
  tests/artwork-management.test.ts,0/1/013a699950fec7d7b696ea128ebd7f5c23cff952
+N
+contracts/quantum-art-nft.clar,8/2/82d9348e6f7467bae3c3d22959601ed4df08fa34
