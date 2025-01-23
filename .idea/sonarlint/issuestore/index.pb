@@ -11,3 +11,5 @@ M
 tests/quantum-art-nft.test.ts,7/e/7e9e582f3fd46402b7030cb1a63660d5540d0c85
 R
 "contracts/viewer-interactions.clar,2/0/2092b45257f2d80b67c071940a5fd9187a233ef3
+Q
+!tests/viewer-interactions.test.ts,4/2/42f7e525f77839aacd86e9a88481e0cb5870f307
